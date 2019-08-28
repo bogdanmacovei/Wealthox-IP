@@ -1,0 +1,11 @@
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Common\obj\Debug\netcoreapp2.1\Common.pdb

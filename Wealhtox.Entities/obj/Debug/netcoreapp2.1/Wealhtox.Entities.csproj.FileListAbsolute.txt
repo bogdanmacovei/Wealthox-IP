@@ -1,0 +1,14 @@
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Wealhtox.Entities.deps.json
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Wealhtox.Entities.runtimeconfig.json
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Wealhtox.Entities.runtimeconfig.dev.json
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Wealhtox.Entities.dll
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Wealhtox.Entities.pdb
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.csprojAssemblyReference.cache
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.AssemblyInfoInputs.cache
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.AssemblyInfo.cs
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.csproj.CopyComplete
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.dll
+C:\Users\bogdan.macovei\Source\Repos\Wealthox.Web\Wealhtox.Entities\obj\Debug\netcoreapp2.1\Wealhtox.Entities.pdb
